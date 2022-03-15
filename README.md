@@ -1,2 +1,2 @@
-# gemece.github.io
-Proyecto AGM - Guillermo Muñoz Crespo
+# Proyecto AGM - Guillermo Muñoz Crespo
+Jump Box Game
